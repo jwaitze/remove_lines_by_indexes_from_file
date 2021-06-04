@@ -4,8 +4,9 @@ This code took a simple task and somehow made it complicated.
 
 ## What it does well
 - Removes lines by overwriting file rather than copying/replacing/renaming it
-- Highly memory efficient
+- Memory efficient
 - Good for massive files
+- Loads files in chunks
 
 ## Setup
 There is none.
